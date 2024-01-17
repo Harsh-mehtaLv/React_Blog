@@ -20,4 +20,4 @@ Ab project ke root folder me new file bnao ***.env*** name ki isme start me dot 
 REACT_APP_APPWRITE_URL = "test enviornment"
 ```
 
-Iss enviornment variable ko hum kabhi bhi github and production me ship nahi krte hai gitignore me isko add krna jruri hai agar aap is repo ko push kr rhe ho 
+Iss enviornment variable ko hum kabhi bhi github and production me ship nahi krte hai gitignore me isko add krna jruri hai agar aap is repo ko push kr rhe ho ok
